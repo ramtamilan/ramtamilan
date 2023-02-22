@@ -16,17 +16,8 @@
 <img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
 </a>  
   
-
-
-
 ### Glad to see you here!  
 I am a Solution Architect and has experience in designing environments hosted in Data Center and Cloud environment.
-
-  
-  
-
-<br/>  
-
 
 - 🔭My Current focus
      * Cloud Solution Architecture, Security Architecture, Governance and Enterprise tools
@@ -45,6 +36,13 @@ I am a Solution Architect and has experience in designing environments hosted in
 - ⚡ Fun fact: Love connecting with people.  
 
 
+
+## My Blogs
+
+* [Solution Architect,who Am I?](https://medium.com/cloudnloud/architect-series-1-solution-architect-who-am-i-9822d8fd191c)
+* [Journey from Sysadmin to Solution Architect](https://medium.com/cloudnloud/architect-series-1-solution-architect-who-am-i-9822d8fd191c)
+* [How to earn Azure Solutions Architect Expert (AZ-305) certification](https://www.linkedin.com/pulse/journey-how-earn-azure-solutions-architect-expert-arunachalam)
+
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
@@ -57,5 +55,4 @@ I am a Solution Architect and has experience in designing environments hosted in
 </td></tr></table>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
