@@ -40,7 +40,7 @@ I am a Solution Architect and has experience in designing environments hosted in
 ## My Blogs
 
 * [Solution Architect,who Am I?](https://medium.com/cloudnloud/architect-series-1-solution-architect-who-am-i-9822d8fd191c)
-* [Journey from Sysadmin to Solution Architect](https://medium.com/cloudnloud/architect-series-1-solution-architect-who-am-i-9822d8fd191c)
+* [Journey from Sysadmin to Solution Architect](https://medium.com/cloudnloud/architect-series-2-journey-from-sysadmin-to-solution-architect-263d979abbad)
 * [How to earn Azure Solutions Architect Expert (AZ-305) certification](https://www.linkedin.com/pulse/journey-how-earn-azure-solutions-architect-expert-arunachalam)
 
 ## Github Stats  
