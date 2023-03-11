@@ -42,6 +42,17 @@ I am a Solution Architect and has experience in designing environments hosted in
 * [Solution Architect,who Am I?](https://medium.com/cloudnloud/architect-series-1-solution-architect-who-am-i-9822d8fd191c)
 * [Journey from Sysadmin to Solution Architect](https://medium.com/cloudnloud/architect-series-2-journey-from-sysadmin-to-solution-architect-263d979abbad)
 * [How to earn Azure Solutions Architect Expert (AZ-305) certification](https://www.linkedin.com/pulse/journey-how-earn-azure-solutions-architect-expert-arunachalam)
+* [How to Secure access to Azure App Service & Cost - Solution Brainstorming](https://www.linkedin.com/posts/ramstack_secure-access-to-azure-app-service-costing-activity-7039884062760591360-D1yL?utm_source=share&utm_medium=member_desktop)
+* [Who Am I - AWS Application Composer?](https://medium.com/cloudnloud/who-am-i-aws-application-composer-5d313a9506a6)
+
+
+## Linkedin Posts
+* [Azure Landing Zone(Enterprise-Scale)](https://www.linkedin.com/posts/ramstack_mustknow-microsoftazure-enterprisescale-activity-7036957428986351616-IJ8g?utm_source=share&utm_medium=member_desktop)
+* [Azure Review Checklist](https://www.linkedin.com/posts/ramstack_azure-architecture-solution-requirement-activity-7034318405172158464-eBp8?utm_source=share&utm_medium=member_desktop)
+* [AWS Certified:Professional Challenge](https://www.linkedin.com/feed/update/urn:li:activity:7026534302653800448?utm_source=share&utm_medium=member_desktop)
+* [Introduction of Microsoft Sentinel & Release news - new Azure DDoS Protection Solution for Microsoft Sentinel](https://www.linkedin.com/posts/ramstack_microsoftsentinel-azure-microsoftsecurity-activity-7030811187579678720-s3J8?utm_source=share&utm_medium=member_desktop)
+* [Azure Data Factory (ADF)](https://www.linkedin.com/posts/ramstack_azure-microsoft-datafactory-activity-7011279457877463040-4Zlo?utm_source=share&utm_medium=member_desktop)
+* [New AWS region opened - UAE news](https://www.linkedin.com/posts/ramstack_now-openaws-region-in-the-united-arab-emirates-activity-6970512761114017792-I9Ym?utm_source=share&utm_medium=member_desktop)
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
