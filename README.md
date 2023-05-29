@@ -80,10 +80,10 @@ I am a Solution Architect and has experience in designing environments hosted in
 
 ## My gists
 
-[Describe-tag-policy.json](https://gist.github.com/ramtamilan/aa7b171221a7a0c63458f136d9b02587)
-[cross-account-trust-policy.json](https://gist.github.com/ramtamilan/0b98e992c8b0a47d79ff548ec0c76469)
-[Lambda_invoke.py for cross account](https://gist.github.com/ramtamilan/1dbc840ce14be66f6c63b14ca4e78e0f)
-[Lambda-crossaccountrole-assume-policy.json](https://gist.github.com/ramtamilan/aa1124ee989b3a7f60ceb6c63cbcd4cf)
+* [Describe-tag-policy.json](https://gist.github.com/ramtamilan/aa7b171221a7a0c63458f136d9b02587)
+* [cross-account-trust-policy.json](https://gist.github.com/ramtamilan/0b98e992c8b0a47d79ff548ec0c76469)
+* [Lambda_invoke.py for cross account](https://gist.github.com/ramtamilan/1dbc840ce14be66f6c63b14ca4e78e0f)
+* [Lambda-crossaccountrole-assume-policy.json](https://gist.github.com/ramtamilan/aa1124ee989b3a7f60ceb6c63cbcd4cf)
 
 
 ## Github Stats  
