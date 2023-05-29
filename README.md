@@ -45,6 +45,7 @@ I am a Solution Architect and has experience in designing environments hosted in
 * [How to Secure access to Azure App Service & Cost - Solution Brainstorming](https://www.linkedin.com/posts/ramstack_secure-access-to-azure-app-service-costing-activity-7039884062760591360-D1yL?utm_source=share&utm_medium=member_desktop)
 * [Who Am I - AWS Application Composer?](https://medium.com/cloudnloud/who-am-i-aws-application-composer-5d313a9506a6)
 * [AWS Use case — Invoke Lambda function and assume IAM role in multiple AWS account](https://medium.com/cloudnloud/aws-use-case-invoke-lambda-function-and-assume-iam-role-in-multiple-aws-account-662186b7da00)
+* [Amazon’s move from micro services to Monolith — My 2 cents](https://medium.com/@ramtamilan/amazons-move-from-micro-services-to-monolith-my-2-cents-b968b012f1c4)
 
 
 ## Linkedin Posts
@@ -54,12 +55,27 @@ I am a Solution Architect and has experience in designing environments hosted in
 * [Introduction of Microsoft Sentinel & Release news - new Azure DDoS Protection Solution for Microsoft Sentinel](https://www.linkedin.com/posts/ramstack_microsoftsentinel-azure-microsoftsecurity-activity-7030811187579678720-s3J8?utm_source=share&utm_medium=member_desktop)
 * [Azure Data Factory (ADF)](https://www.linkedin.com/posts/ramstack_azure-microsoft-datafactory-activity-7011279457877463040-4Zlo?utm_source=share&utm_medium=member_desktop)
 * [New AWS region opened - UAE news](https://www.linkedin.com/posts/ramstack_now-openaws-region-in-the-united-arab-emirates-activity-6970512761114017792-I9Ym?utm_source=share&utm_medium=member_desktop)
-* [March AWS user group Wellington meetup](https://www.linkedin.com/posts/ramstack_cloudnloud-tech-learning-activity-7045639027911245824-yEDe?utm_source=share&utm_medium=member_desktop)
+* [March,2023 AWS user group Wellington meetup](https://www.linkedin.com/posts/ramstack_cloudnloud-tech-learning-activity-7045639027911245824-yEDe?utm_source=share&utm_medium=member_desktop)
+* [𝐒𝐞𝐜𝐮𝐫𝐞 𝐀𝐜𝐜𝐞𝐬𝐬 𝐭𝐨 𝐀𝘇𝘂𝗿𝗲 𝗔𝗽𝗽 𝗦𝗲𝗿𝘃𝗶𝗰𝗲 & 𝗖𝗼𝘀𝘁𝗶𝗻𝗴 - 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧 𝐁𝐫𝐚𝐢𝐧𝐬𝐭𝐨𝐫𝐦𝐢𝐧𝐠 - 𝐒𝐞𝐫𝐢𝐞𝐬 𝟑](https://www.linkedin.com/posts/ramstack_secure-access-to-azure-app-service-costing-activity-7039884062760591360-D1yL?utm_source=share&utm_medium=member_desktop)
+* [new blog on "AWS Use case — Invoke Lambda function and assume IAM role in multiple AWS account"](https://www.linkedin.com/posts/ramstack_aws-use-caseinvoke-lambda-function-and-activity-7046411253807788032-i41q?utm_source=share&utm_medium=member_desktop)
+* [New Microsoft released new product "Microsoft Security Copilot" (preview)](https://www.linkedin.com/posts/ramstack_mssecure-infosec-activity-7047041123441147904-9WR_?utm_source=share&utm_medium=member_desktop)
+* [Sharing on Microsoft Learn community](https://www.linkedin.com/posts/ramstack_microsoft-learn-community-activity-7051384186955272193-FK8l?utm_source=share&utm_medium=member_desktop)
+* [Announcement on AWS - updates to AWS Well-Architected Framework](https://www.linkedin.com/posts/ramstack_announcing-updates-to-the-aws-well-architected-activity-7052528404939636736-h29e?utm_source=share&utm_medium=member_desktop)
+* [April,2023 AWS user group - Wellington meetup](https://www.linkedin.com/posts/ramstack_cloudnloud-tech-learning-activity-7054362954074390528-28sl?utm_source=share&utm_medium=member_desktop)
+* [AWS has announced "24 Hours of Cost Optimization" live stream](https://www.linkedin.com/posts/ramstack_aws-24-hours-of-cost-optimization-activity-7057097797023457281-WX_0?utm_source=share&utm_medium=member_desktop)
+* [Blog on Amazon’s move from micro services to Monolith — My 2 cents](https://www.linkedin.com/posts/ramstack_cloud-devops-amazon-activity-7061235605879328768-cqMk?utm_source=share&utm_medium=member_desktop)
+* [Speaker @ Global Azure Day 2023 for the Wellington, NZ ](https://www.linkedin.com/posts/ramstack_azure-globalazure-community-activity-7062243705277095937-PBPR?utm_source=share&utm_medium=member_desktop)
+* [Update to Security-Specialty exam](https://www.linkedin.com/posts/ramstack_aws-security-awscertification-activity-7066611262293434368-dEM-?utm_source=share&utm_medium=member_desktop)
+* [May,2023 AWS user group - Wellington meetup](https://www.linkedin.com/posts/ramstack_aws-awscloud-awsusergroups-activity-7067025924461842432-cQxr?utm_source=share&utm_medium=member_desktop)
+* [Renewal of AZ-104 certification](https://www.linkedin.com/posts/ramstack_microsoft-certified-azure-administrator-activity-7067999704965386240-cy-3?utm_source=share&utm_medium=member_desktop)
 
-
-## Youtube Videos
+ ## Youtube Videos
 
 * [Secure Access to Azure App Service & Costing - Solution Brainstorming](https://youtu.be/0Als8CtSOiY)
+
+## Speaker/Presenter @ Meet-ups
+
+[Presented on Azure WVD Architecture in Global Azure Day 2023 -Wellington](https://www.meetup.com/wellington-data-management-and-analytics-meetup/events/291994816/)
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
