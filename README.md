@@ -78,6 +78,14 @@ I am a Solution Architect and has experience in designing environments hosted in
 
 [Presented on Azure WVD Architecture in Global Azure Day 2023 -Wellington](https://www.meetup.com/wellington-data-management-and-analytics-meetup/events/291994816/)
 
+## My gists
+
+[Describe-tag-policy.json](https://gist.github.com/ramtamilan/aa7b171221a7a0c63458f136d9b02587)
+[cross-account-trust-policy.json](https://gist.github.com/ramtamilan/0b98e992c8b0a47d79ff548ec0c76469)
+[Lambda_invoke.py for cross account](https://gist.github.com/ramtamilan/1dbc840ce14be66f6c63b14ca4e78e0f)
+[Lambda-crossaccountrole-assume-policy.json](https://gist.github.com/ramtamilan/aa1124ee989b3a7f60ceb6c63cbcd4cf)
+
+
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
