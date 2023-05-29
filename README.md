@@ -68,6 +68,7 @@ I am a Solution Architect and has experience in designing environments hosted in
 * [Update to Security-Specialty exam](https://www.linkedin.com/posts/ramstack_aws-security-awscertification-activity-7066611262293434368-dEM-?utm_source=share&utm_medium=member_desktop)
 * [May,2023 AWS user group - Wellington meetup](https://www.linkedin.com/posts/ramstack_aws-awscloud-awsusergroups-activity-7067025924461842432-cQxr?utm_source=share&utm_medium=member_desktop)
 * [Renewal of my AZ-104 certification](https://www.linkedin.com/posts/ramstack_microsoft-certified-azure-administrator-activity-7067999704965386240-cy-3?utm_source=share&utm_medium=member_desktop)
+* [AWS Health event dashboard solution](https://www.linkedin.com/posts/ramstack_github-aws-samplesaws-health-events-insight-activity-7068905590130946048-t8sk?utm_source=share&utm_medium=member_desktop)
 
  ## Youtube Videos
 
