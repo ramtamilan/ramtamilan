@@ -80,9 +80,9 @@ I am a Solution Architect and has experience in designing environments hosted in
 
 ## Meetups
 
-[March,2023 AWS user group Wellington meetup](https://www.linkedin.com/posts/ramstack_cloudnloud-tech-learning-activity-7045639027911245824-yEDe?utm_source=share&utm_medium=member_desktop)
-[April,2023 AWS user group - Wellington meetup](https://www.linkedin.com/posts/ramstack_cloudnloud-tech-learning-activity-7054362954074390528-28sl?utm_source=share&utm_medium=member_desktop)
-[May,2023 AWS user group - Wellington meetup](https://www.linkedin.com/posts/ramstack_aws-awscloud-awsusergroups-activity-7067025924461842432-cQxr?utm_source=share&utm_medium=member_desktop)
+*[March,2023 AWS user group Wellington meetup](https://www.linkedin.com/posts/ramstack_cloudnloud-tech-learning-activity-7045639027911245824-yEDe?utm_source=share&utm_medium=member_desktop)
+*[April,2023 AWS user group - Wellington meetup](https://www.linkedin.com/posts/ramstack_cloudnloud-tech-learning-activity-7054362954074390528-28sl?utm_source=share&utm_medium=member_desktop)
+*[May,2023 AWS user group - Wellington meetup](https://www.linkedin.com/posts/ramstack_aws-awscloud-awsusergroups-activity-7067025924461842432-cQxr?utm_source=share&utm_medium=member_desktop)
 
    
 
