@@ -36,7 +36,7 @@ I am a Solution Architect and has experience in designing environments hosted in
 - ⚡ Fun fact: Love connecting with people.
 
 ## AWS
-* [ Success - AWS Certified Security Speciatly](https://www.linkedin.com/posts/ramstack_aws-certified-security-specialty-was-issued-activity-7081411663387656192-tzzw?utm_source=share&utm_medium=member_desktop)
+* [Certification Achievement - - AWS Certified Security Speciatly](https://www.linkedin.com/posts/ramstack_aws-certified-security-specialty-was-issued-activity-7081411663387656192-tzzw?utm_source=share&utm_medium=member_desktop)
 * [ Announcement: The AWS Community Builders Application](https://www.linkedin.com/posts/ramstack_aws-community-builders-worldwide-cloud-activity-7080644560971841536-1JNW?utm_source=share&utm_medium=member_desktop)
 * [ AWS Meetup June,2023](https://www.linkedin.com/posts/ramstack_aws-community-awsusergroup-activity-7079594524334829568-6Geq?utm_source=share&utm_medium=member_desktop)
 * [AWS launch Amazon S3 dual-layer server-side encryption with keys stored in AWS KMS(DSSE-KMS)](https://www.linkedin.com/posts/ramstack_amazon-s3-announces-dual-layer-server-side-activity-7076800841705263104-jD3K?utm_source=share&utm_medium=member_desktop)
@@ -54,6 +54,8 @@ I am a Solution Architect and has experience in designing environments hosted in
 * [Who Am I - AWS Application Composer?](https://medium.com/cloudnloud/who-am-i-aws-application-composer-5d313a9506a6)
 * [New AWS region opened - UAE news](https://www.linkedin.com/posts/ramstack_now-openaws-region-in-the-united-arab-emirates-activity-6970512761114017792-I9Ym?utm_source=share&utm_medium=member_desktop)
 * [AWS Certified:Professional Challenge](https://www.linkedin.com/feed/update/urn:li:activity:7026534302653800448?utm_source=share&utm_medium=member_desktop)
+* [Certification Achievement - AWS Solutions Architect](https://www.linkedin.com/posts/ramstack_aws-certified-solutions-architect-professional-activity-6965469551736082432-C7VL?utm_source=share&utm_medium=member_desktop)
+* [Certification Achievement - AWS Solutions Architect - Associate](https://www.linkedin.com/posts/ramstack_linux-tutorials-activity-6568214484505239552-S3Tj?utm_source=share&utm_medium=member_desktop)
 
 ## AWS Meetups
 
