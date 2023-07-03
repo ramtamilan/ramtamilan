@@ -38,14 +38,12 @@ I am a Solution Architect and has experience in designing environments hosted in
 ## AWS
 * [Certification Achievement - - AWS Certified Security Speciatly](https://www.linkedin.com/posts/ramstack_aws-certified-security-specialty-was-issued-activity-7081411663387656192-tzzw?utm_source=share&utm_medium=member_desktop)
 * [ Announcement: The AWS Community Builders Application](https://www.linkedin.com/posts/ramstack_aws-community-builders-worldwide-cloud-activity-7080644560971841536-1JNW?utm_source=share&utm_medium=member_desktop)
-* [ AWS Meetup June,2023](https://www.linkedin.com/posts/ramstack_aws-community-awsusergroup-activity-7079594524334829568-6Geq?utm_source=share&utm_medium=member_desktop)
 * [AWS launch Amazon S3 dual-layer server-side encryption with keys stored in AWS KMS(DSSE-KMS)](https://www.linkedin.com/posts/ramstack_amazon-s3-announces-dual-layer-server-side-activity-7076800841705263104-jD3K?utm_source=share&utm_medium=member_desktop)
 * [Who am I ?— AWS VPC Endpoint](https://www.linkedin.com/posts/ramstack_secure-cost-optimize-using-aws-vpc-endpoint-activity-7073909288447995904-i1gi?utm_source=share&utm_medium=member_desktop)
 * [AWS Control Tower - Additional Zone announcement](https://www.linkedin.com/posts/ramstack_aws-control-tower-increases-account-access-activity-7072452189935333376-Jcdh?utm_source=share&utm_medium=member_desktop)
 * [AWS announcement: Lambda now supports Amazon MSK, Apache Kafka(self-managed) and Amazon MQ as event sources in four more regions](https://www.linkedin.com/posts/ramstack_aws-lambda-supports-kafka-and-amazon-mq-event-activity-7072089799871893504-x71D?utm_source=share&utm_medium=member_desktop)
 * [AWS She Builds Mentorship program](https://www.linkedin.com/posts/ramstack_awsshebuilds-womenintech-mentorship-activity-7069589968561573888-AjAR?utm_source=share&utm_medium=member_desktop)
 * [Sharing - dashboard AWS Health events](https://www.linkedin.com/posts/ramstack_github-aws-samplesaws-health-events-insight-activity-7068905590130946048-t8sk?utm_source=share&utm_medium=member_desktop)
-* [May,2023 AWS user group - Wellington meetup](https://www.linkedin.com/posts/ramstack_aws-awscloud-awsusergroups-activity-7067025924461842432-cQxr?utm_source=share&utm_medium=member_desktop)
 * [Amazon’s move from micro services to Monolith — My 2 cents](https://medium.com/@ramtamilan/amazons-move-from-micro-services-to-monolith-my-2-cents-b968b012f1c4)
 * [AWS has announced "24 Hours of Cost Optimization" live stream](https://www.linkedin.com/posts/ramstack_aws-24-hours-of-cost-optimization-activity-7057097797023457281-WX_0?utm_source=share&utm_medium=member_desktop)
 * [Update to Security-Specialty exam](https://www.linkedin.com/posts/ramstack_aws-security-awscertification-activity-7066611262293434368-dEM-?utm_source=share&utm_medium=member_desktop)
@@ -57,7 +55,7 @@ I am a Solution Architect and has experience in designing environments hosted in
 * [Certification Achievement - AWS Solutions Architect](https://www.linkedin.com/posts/ramstack_aws-certified-solutions-architect-professional-activity-6965469551736082432-C7VL?utm_source=share&utm_medium=member_desktop)
 * [Certification Achievement - AWS Solutions Architect - Associate](https://www.linkedin.com/posts/ramstack_linux-tutorials-activity-6568214484505239552-S3Tj?utm_source=share&utm_medium=member_desktop)
 
-## AWS Meetups
+## AWS Meetups 
 
 * [March,2023 AWS user group Wellington meetup](https://www.linkedin.com/posts/ramstack_cloudnloud-tech-learning-activity-7045639027911245824-yEDe?utm_source=share&utm_medium=member_desktop)
 * [April,2023 AWS user group - Wellington meetup](https://www.linkedin.com/posts/ramstack_cloudnloud-tech-learning-activity-7054362954074390528-28sl?utm_source=share&utm_medium=member_desktop)
