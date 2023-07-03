@@ -33,7 +33,7 @@ I am a Solution Architect and has experience in designing environments hosted in
 - ❓ Ask me about AWS,Azure, Vmware, Citrix, Windows, Active Directory.  
   
 
-- ⚡ Fun fact: Love connecting with people.  
+- ⚡ Fun fact: Love connecting with people.
 
 ## AWS
 * [ Success - AWS Certified Security Speciatly](https://www.linkedin.com/posts/ramstack_aws-certified-security-specialty-was-issued-activity-7081411663387656192-tzzw?utm_source=share&utm_medium=member_desktop)
@@ -112,6 +112,15 @@ I am a Solution Architect and has experience in designing environments hosted in
 * [cross-account-trust-policy.json](https://gist.github.com/ramtamilan/0b98e992c8b0a47d79ff548ec0c76469)
 * [Lambda_invoke.py for cross account](https://gist.github.com/ramtamilan/1dbc840ce14be66f6c63b14ca4e78e0f)
 * [Lambda-crossaccountrole-assume-policy.json](https://gist.github.com/ramtamilan/aa1124ee989b3a7f60ceb6c63cbcd4cf)
+
+## Volunterring 
+## ROLE: 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 Leader @ CloudnLoud
+
+I am part of 𝐂𝐥𝐨𝐮𝐝𝐧𝐋𝐨𝐮𝐝 𝐓𝐞𝐜𝐡 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 Core team.The CloudnLoud Tech Community is a non-profit open source tech community, volunteer-run events presenting by members of the CloudnLoud Community.
+
+The goal of our community is to bring together companies, leaders and professionals from around the world to share ideas, socialize and work together on advancing the present and future success of the project. We are part of this for good cause to save millions of Cancer children.
+
+At CloudnLoud Tech community, we are organizing free tech conferences, technical trainings and technical discussions on various IT technologies & open source tools.
 
 
 ## Github Stats  
