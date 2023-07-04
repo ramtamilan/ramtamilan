@@ -37,11 +37,11 @@ I am a Solution Architect and has experience in designing environments hosted in
 
 ## 🤝Community Volunteering
 
-[Community Leader - Cloudnloud Tech Community](https://lnkd.in/ezWsM6vG)
-[Commitee Member - AWS Aotearoa (NZ) User Group](https://www.linkedin.com/company/aws-user-group-aotearoa)
-[Community Leader - Cloudnloud Data/Gen AI/ML Labs India](https://www.meetup.com/cloudnloud-genai-labs)
-[Community Leader - Cloud devops sre Europe & UK](https://www.meetup.com/cloud-devops-sre-europe-uk)
-[Community Leader - Data AI ML Europe & UK](https://www.meetup.com/data-ai-ml-europe-uk)
+* [Community Leader - Cloudnloud Tech Community](https://lnkd.in/ezWsM6vG)
+* [Commitee Member - AWS Aotearoa (NZ) User Group](https://www.linkedin.com/company/aws-user-group-aotearoa)
+* [Community Leader - Cloudnloud Data/Gen AI/ML Labs India](https://www.meetup.com/cloudnloud-genai-labs)
+* [Community Leader - Cloud devops sre Europe & UK](https://www.meetup.com/cloud-devops-sre-europe-uk)
+* [Community Leader - Data AI ML Europe & UK](https://www.meetup.com/data-ai-ml-europe-uk)
 
 ## AWS
 * [AWS - Certification Achievement of AWS Certified Security Speciatly](https://www.linkedin.com/posts/ramstack_aws-certified-security-specialty-was-issued-activity-7081411663387656192-tzzw?utm_source=share&utm_medium=member_desktop)
