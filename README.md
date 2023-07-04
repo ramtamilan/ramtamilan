@@ -29,7 +29,7 @@ I am a Solution Architect and has experience in designing environments hosted in
      * M&A Projects
      * Tech Blogging
   
-  ### 🤝Community Volunteering
+  ## 🤝Community Volunteering
      Community Leader - [Cloudnloud Tech Community](https://lnkd.in/ezWsM6vG)
      Commitee Member - [AWS Aotearoa (NZ) User Group](https://www.linkedin.com/company/aws-user-group-aotearoa)
      Community Leader - [Cloudnloud Data/Gen AI/ML Labs India](https://www.meetup.com/cloudnloud-genai-labs)
