@@ -30,7 +30,7 @@ I am a Solution Architect and has experience in designing environments hosted in
      * Tech Blogging
   
   ## 🤝Community Volunteering
-     *Community Leader[Cloudnloud Tech Community](https://lnkd.in/ezWsM6vG)
+     [Cloudnloud Tech Community](https://lnkd.in/ezWsM6vG)
    
   
 - 🌱 Continuous learning and adding skills to my Armory.
