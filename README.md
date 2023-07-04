@@ -28,6 +28,7 @@ I am a Solution Architect and has experience in designing environments hosted in
      * Transition & Transformation
      * M&A Projects
      * Tech Blogging
+     * Community sharing/building
   
 - 🌱 Continuous learning and adding skills to my Armory.
   
