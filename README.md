@@ -17,7 +17,9 @@
 </a>  
   
 ### Glad to see you here!  
-I am a Solution Architect and has experience in designing environments hosted in Data Center and Cloud environment.
+I am a Solution Architect and has experience in designing environments hosted in Data Center and Cloud environment.Passion & Love for computers has inspired my journey for 16 + years.I started my career in computer assembling & technical support. I have been part of journey where the IT has transformed from physical hardware to Cloud.
+
+ I strongly believe and practice the proverb -  **If you want to go fast, go alone. If you want to go far, go together**. Throughout my learning journey, I have learnt from my peers, team mates and community. I love sharing  what I learn and do in my day-day,knowing it can help others in their journey.
 
 - 🔭My Current focus
      * Cloud Solution Architecture, Security Architecture, Governance and Enterprise tools
@@ -57,10 +59,10 @@ I am a Solution Architect and has experience in designing environments hosted in
 
 ## AWS Meetups 
 
-* [March,2023 AWS user group Wellington meetup](https://www.linkedin.com/posts/ramstack_cloudnloud-tech-learning-activity-7045639027911245824-yEDe?utm_source=share&utm_medium=member_desktop)
-* [April,2023 AWS user group - Wellington meetup](https://www.linkedin.com/posts/ramstack_cloudnloud-tech-learning-activity-7054362954074390528-28sl?utm_source=share&utm_medium=member_desktop)
-* [May,2023 AWS user group - Wellington meetup](https://www.linkedin.com/posts/ramstack_aws-awscloud-awsusergroups-activity-7067025924461842432-cQxr?utm_source=share&utm_medium=member_desktop)
-* [June,2023 AWS user group - Wellington meetup](https://www.linkedin.com/posts/ramstack_aws-community-awsusergroup-activity-7079594524334829568-6Geq?utm_source=share&utm_medium=member_desktop)
+* [AWS user group Wellington meetup -March,2023](https://www.linkedin.com/posts/ramstack_cloudnloud-tech-learning-activity-7045639027911245824-yEDe?utm_source=share&utm_medium=member_desktop)
+* [AWS user group - Wellington meetup - April,2023 ](https://www.linkedin.com/posts/ramstack_cloudnloud-tech-learning-activity-7054362954074390528-28sl?utm_source=share&utm_medium=member_desktop)
+* [AWS user group - Wellington meetup - May,2023 ](https://www.linkedin.com/posts/ramstack_aws-awscloud-awsusergroups-activity-7067025924461842432-cQxr?utm_source=share&utm_medium=member_desktop)
+* [AWS user group - Wellington meetup - June,2023 ](https://www.linkedin.com/posts/ramstack_aws-community-awsusergroup-activity-7079594524334829568-6Geq?utm_source=share&utm_medium=member_desktop)
 
 ## Azure 
 * [Azure Landing Zone(Enterprise-Scale)](https://www.linkedin.com/posts/ramstack_mustknow-microsoftazure-enterprisescale-activity-7036957428986351616-IJ8g?utm_source=share&utm_medium=member_desktop)
@@ -79,9 +81,9 @@ I am a Solution Architect and has experience in designing environments hosted in
 * [Journey from Sysadmin to Solution Architect](https://medium.com/cloudnloud/architect-series-2-journey-from-sysadmin-to-solution-architect-263d979abbad)
 * [How to earn Azure Solutions Architect Expert (AZ-305) certification](https://www.linkedin.com/pulse/journey-how-earn-azure-solutions-architect-expert-arunachalam)
 * [How to Secure access to Azure App Service & Cost - Solution Brainstorming](https://www.linkedin.com/posts/ramstack_secure-access-to-azure-app-service-costing-activity-7039884062760591360-D1yL?utm_source=share&utm_medium=member_desktop)
-* [Who Am I - AWS Application Composer?](https://medium.com/cloudnloud/who-am-i-aws-application-composer-5d313a9506a6)
-* [AWS Use case — Invoke Lambda function and assume IAM role in multiple AWS account](https://medium.com/cloudnloud/aws-use-case-invoke-lambda-function-and-assume-iam-role-in-multiple-aws-account-662186b7da00)
-* [Amazon’s move from micro services to Monolith — My 2 cents](https://medium.com/@ramtamilan/amazons-move-from-micro-services-to-monolith-my-2-cents-b968b012f1c4)
+* [AWS -  Who Am I - AWS Application Composer?](https://medium.com/cloudnloud/who-am-i-aws-application-composer-5d313a9506a6)
+* [AWS - AWS Use case — Invoke Lambda function and assume IAM role in multiple AWS account](https://medium.com/cloudnloud/aws-use-case-invoke-lambda-function-and-assume-iam-role-in-multiple-aws-account-662186b7da00)
+* [AWS - Amazon’s move from micro services to Monolith — My 2 cents](https://medium.com/@ramtamilan/amazons-move-from-micro-services-to-monolith-my-2-cents-b968b012f1c4)
 
 ## Youtube Videos
 
@@ -89,7 +91,7 @@ I am a Solution Architect and has experience in designing environments hosted in
 
 ## Speaker/Presenter @ Meet-ups
 
-[Presented on Azure WVD Architecture in Global Azure Day 2023 -Wellington](https://www.meetup.com/wellington-data-management-and-analytics-meetup/events/291994816/)
+[Azure - Presented on Azure WVD Architecture in Global Azure Day 2023 -Wellington](https://www.meetup.com/wellington-data-management-and-analytics-meetup/events/291994816/)
 
  
 ## My gists
