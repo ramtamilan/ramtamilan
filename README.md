@@ -39,6 +39,9 @@ I am a Solution Architect and has experience in designing environments hosted in
   
 - ⚡ Fun fact: Love connecting with people.
 
+
+[Cloudnloud Tech Community](https://lnkd.in/ezWsM6vG)
+
 ## AWS
 * [AWS - Certification Achievement of AWS Certified Security Speciatly](https://www.linkedin.com/posts/ramstack_aws-certified-security-specialty-was-issued-activity-7081411663387656192-tzzw?utm_source=share&utm_medium=member_desktop)
 * [AWS - Announcement: The AWS Community Builders Application](https://www.linkedin.com/posts/ramstack_aws-community-builders-worldwide-cloud-activity-7080644560971841536-1JNW?utm_source=share&utm_medium=member_desktop)
