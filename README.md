@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Ramaswamy Arunachalam and people call me "Ram" 
 
-### You can find me on
+### 📫 You can find me on
   
  
 <a href="https://github.com/ramtamilan" target="_blank">
@@ -21,15 +21,20 @@ I am a Solution Architect and has experience in designing environments hosted in
 
  I strongly believe and practice the proverb -  **If you want to go fast, go alone. If you want to go far, go together**. Throughout my learning journey, I have learnt from my peers, team mates and community. I love sharing  what I learn and do in my day-day,knowing it can help others in their journey.
 
-- 🔭My Current focus
+ - 🔭My Current focus
      * Cloud Solution Architecture, Security Architecture, Governance and Enterprise tools
      * Automation using Infra as Code & Script (Powershell & Python)
      * Virtualization - Application, Server & Desktop
      * Transition & Transformation
      * M&A Projects
      * Tech Blogging
+  
+  🤝 Community Volunteering
+
+      
 
 - 🌱 Continuous learning and adding skills to my Armory.  
+      **Community Leader @ Cloudnloud Tech Community** - (https://lnkd.in/ezWsM6vG)
   
 
 - ❓ Ask me about AWS,Azure, Vmware, Citrix, Windows, Active Directory.  
