@@ -45,6 +45,7 @@ I am a Solution Architect and has experience in designing environments hosted in
 * [Community Leader - Data AI ML Europe & UK](https://www.meetup.com/data-ai-ml-europe-uk)
 
 ## AWS
+* [AWS - AWS User group meeting announcement](https://www.linkedin.com/posts/ramstack_july-2023-61-cloud-security-safeguarding-activity-7083953440044826624-cLIt?utm_source=share&utm_medium=member_desktop)
 * [AWS - Survey form for feedback on AWS Cloudformation](https://www.linkedin.com/posts/ramstack_iac-devops-aws-activity-7082909309822537729-Jpa1?utm_source=share&utm_medium=member_desktop)
 * [AWS - Certification Achievement of AWS Certified Security Speciatly](https://www.linkedin.com/posts/ramstack_aws-certified-security-specialty-was-issued-activity-7081411663387656192-tzzw?utm_source=share&utm_medium=member_desktop)
 * [AWS - Announcement: The AWS Community Builders Application](https://www.linkedin.com/posts/ramstack_aws-community-builders-worldwide-cloud-activity-7080644560971841536-1JNW?utm_source=share&utm_medium=member_desktop)
@@ -110,13 +111,24 @@ I am a Solution Architect and has experience in designing environments hosted in
 * [Lambda-crossaccountrole-assume-policy.json](https://gist.github.com/ramtamilan/aa1124ee989b3a7f60ceb6c63cbcd4cf)
 
 ## Volunterring 
-## ROLE: 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 Leader @ CloudnLoud
+## ROLE: 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 Leader @ **CloudnLoud**
 
 I am part of 𝐂𝐥𝐨𝐮𝐝𝐧𝐋𝐨𝐮𝐝 𝐓𝐞𝐜𝐡 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 Core team.The CloudnLoud Tech Community is a non-profit open source tech community, volunteer-run events presenting by members of the CloudnLoud Community.
 
 The goal of our community is to bring together companies, leaders and professionals from around the world to share ideas, socialize and work together on advancing the present and future success of the project. We are part of this for good cause to save millions of Cancer children.
 
 At CloudnLoud Tech community, we are organizing free tech conferences, technical trainings and technical discussions on various IT technologies & open source tools.
+
+## ROLE: **Commitee Member** @ **AWS Aotearoa (NZ) User Group**
+
+I am Commitee Member for AWS Aotearoa (NZ) User Group and part of team where meet, collaborate and plan for meetings & community works to help others in their AWS Journey.
+The Amazon Web Services - Wellington Users Group is about all things Amazon Web Services for past, present and future users of all persuasions; tech and business, newbie to guru. 
+Our shared purpose:
+• Build the next generation of AWS professionals
+• Inclusive of everyone
+• Career progression and job matchmaking
+• Promoting excellence in the development of AWS solutions
+Whether you’re an AWS beginner or a seasoned pro, we’re here to help you on your AWS journey. We share our learnings and experiences and keep everyone up to speed on the latest news and developments.
 
 
 ## Github Stats  
