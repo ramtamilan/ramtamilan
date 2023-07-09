@@ -122,13 +122,12 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 ## ROLE: **Commitee Member** @ **AWS Aotearoa (NZ) User Group**
 
 I am Commitee Member for AWS Aotearoa (NZ) User Group and part of team where meet, collaborate and plan for meetings & community works to help others in their AWS Journey.
-The Amazon Web Services - Wellington Users Group is about all things Amazon Web Services for past, present and future users of all persuasions; tech and business, newbie to guru. 
+The Amazon Web Services - Wellington Users Group is about all things Amazon Web Services for past, present and future users of all persuasions; tech and business, newbie to guru. Whether you’re an AWS beginner or a seasoned pro, we’re here to help you on your AWS journey. We share our learnings and experiences and keep everyone up to speed on the latest news and developments.
+
 Our shared purpose:
-• Build the next generation of AWS professionals
-• Inclusive of everyone
-• Career progression and job matchmaking
-• Promoting excellence in the development of AWS solutions
-Whether you’re an AWS beginner or a seasoned pro, we’re here to help you on your AWS journey. We share our learnings and experiences and keep everyone up to speed on the latest news and developments.
+* Build the next generation of AWS professionals
+* Inclusive of everyone
+* Career progression and job matchmaking
 
 
 ## Github Stats  
