@@ -19,7 +19,7 @@
 ### Glad to see you here!  
 I am a Solution Architect and has experience in designing environments hosted in Data Center and Cloud environment.Passion & Love for computers has inspired my journey for 16 + years.I started my career in computer assembling & technical support. I have been part of journey where the IT has transformed from physical hardware to Cloud.
 
- I strongly believe and practice the proverb -  **If you want to go fast, go alone. If you want to go far, go together**. Throughout my learning journey, I have learnt from my peers, team mates and community. I love sharing  what I learn and do in my day-day,knowing it can help others in their journey.
+ I strongly believe and practice the proverb -  **If you want to go fast, go alone. If you want to go far, go together**. Throughout my learning journey, I have learnt from my peers, team mates and community. I love sharing  what I learn and do in my day-day,knowing it can help others in their journey. I am actively looking for oppurtunities to learn and share my knowledge to community.
 
  - 🔭My Current focus
      * Cloud Solution Architecture, Security Architecture, Governance and Enterprise tools
@@ -117,7 +117,7 @@ I am part of 𝐂𝐥𝐨𝐮𝐝𝐧𝐋𝐨𝐮𝐝 𝐓𝐞𝐜𝐡 𝐂𝐨�
 
 The goal of our community is to bring together companies, leaders and professionals from around the world to share ideas, socialize and work together on advancing the present and future success of the project. We are part of this for good cause to save millions of Cancer children.
 
-At CloudnLoud Tech community, we are organizing free tech conferences, technical trainings and technical discussions on various IT technologies & open source tools.
+At CloudnLoud Tech community, we are organizing free tech conferences, technical trainings and technical discussions on various IT technologies & open source tools. I have been mentoring, sharing knowledge through meetings, presentations and blogs.
 
 ## ROLE: **Commitee Member** @ **AWS Aotearoa (NZ) User Group**
 
