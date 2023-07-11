@@ -45,6 +45,7 @@ I am a Solution Architect and has experience in designing environments hosted in
 * [Community Leader - Data AI ML Europe & UK](https://www.meetup.com/data-ai-ml-europe-uk)
 
 ## AWS
+* [AWS - Active Directory Services design in AWS](https://www.linkedin.com/posts/ramstack_like-share-aws-activity-7084426923023470592-VkWz?utm_source=share&utm_medium=member_desktop)
 * [AWS - AWS User group meeting announcement](https://www.linkedin.com/posts/ramstack_july-2023-61-cloud-security-safeguarding-activity-7083953440044826624-cLIt?utm_source=share&utm_medium=member_desktop)
 * [AWS - Survey form for feedback on AWS Cloudformation](https://www.linkedin.com/posts/ramstack_iac-devops-aws-activity-7082909309822537729-Jpa1?utm_source=share&utm_medium=member_desktop)
 * [AWS - Certification Achievement of AWS Certified Security Speciatly](https://www.linkedin.com/posts/ramstack_aws-certified-security-specialty-was-issued-activity-7081411663387656192-tzzw?utm_source=share&utm_medium=member_desktop)
@@ -97,6 +98,7 @@ I am a Solution Architect and has experience in designing environments hosted in
 ## Youtube Videos
 
 * [Secure Access to Azure App Service & Costing - Solution Brainstorming](https://youtu.be/0Als8CtSOiY)
+* [Active Directory Services in AWS](https://youtu.be/phhi6YVqjkw)
 
 ## Speaker/Presenter @ Meet-ups
 
