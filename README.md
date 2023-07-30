@@ -45,6 +45,7 @@ I am a Solution Architect and has experience in designing environments hosted in
 * [Community Leader - Data AI ML Europe & UK](https://www.meetup.com/data-ai-ml-europe-uk)
 
 ## AWS
+*[AWS - Announcement AWS HealthScribe](https://www.linkedin.com/posts/ramstack_generate-clinical-notes-with-ai-aws-healthscribe-activity-7091553766629412864-gu48?utm_source=share&utm_medium=member_desktop)
 * [AWS - AWS Lambda Throttling](https://www.linkedin.com/posts/ramstack_understanding-aws-lambdas-invoke-throttling-activity-7089472404736921603-SRsE?utm_source=share&utm_medium=member_desktop)
 * [AWS - AWS Architecture blog on data archiving solution](https://www.linkedin.com/posts/ramstack_reduce-archive-cost-with-serverless-data-activity-7087360530323050496-rgNw?utm_source=share&utm_medium=member_desktop)
 * [AWS - Active Directory Services design in AWS](https://www.linkedin.com/posts/ramstack_like-share-aws-activity-7084426923023470592-VkWz?utm_source=share&utm_medium=member_desktop)
