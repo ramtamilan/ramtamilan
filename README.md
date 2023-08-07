@@ -45,6 +45,7 @@ I am a Solution Architect and has experience in designing environments hosted in
 * [Community Leader - Data AI ML Europe & UK](https://www.meetup.com/data-ai-ml-europe-uk)
 
 ## AWS
+* [AWS - AWS EventBridge Scheduler](https://www.linkedin.com/posts/ramstack_aws-awscloud-awsnews-activity-7094266444372185088-LgiE?utm_source=share&utm_medium=member_desktop)
 * [AWS - Release of 7th Generation M7i EC2](https://www.linkedin.com/posts/ramstack_aws-amazon-ec2-m7i-flex-instances-announcement-activity-7092670598610366464-R7Fy?utm_source=share&utm_medium=member_desktop)
 * [AWS - Python 3.11 supported on AWS Lambda and container image.](https://www.linkedin.com/posts/ramstack_aws-awscloud-awslambda-activity-7092412112857149442-KWQd?utm_source=share&utm_medium=member_desktop)
 * [AWS - Announcement AWS HealthScribe](https://www.linkedin.com/posts/ramstack_generate-clinical-notes-with-ai-aws-healthscribe-activity-7091553766629412864-gu48?utm_source=share&utm_medium=member_desktop)
