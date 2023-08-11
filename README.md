@@ -30,6 +30,16 @@ I am a Solution Architect and has experience in designing environments hosted in
      * Tech Blogging
      * Community sharing/building
   
+   - Technical Skills
+      ✨ AWS & Azure Cloud Architecture
+      ✨ Vmware & Citrix
+      ✨ Active Directory
+      ✨ VDI Platforms – Azure WVD, AWS Workspace, VMware & Citrix
+      ✨  Windows Operating System Architecture
+      ✨  Scripting - Powershell, Python
+      ✨  DevOps – GitHub, Bitbucket, Jenkins
+      
+  
 - 🌱 Continuous learning and adding skills to my Armory.
   
 - ❓ Ask me about AWS,Azure, Vmware, Citrix, Windows, Active Directory.  
