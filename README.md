@@ -45,6 +45,7 @@ I am a Solution Architect and has experience in designing environments hosted in
 * [Community Leader - Data AI ML Europe & UK](https://www.meetup.com/data-ai-ml-europe-uk)
 
 ## AWS
+* [AWS - AWS Community day, New Zealand](https://www.linkedin.com/posts/ramstack_aws-community-day-2023-aotearoa-activity-7095561838280540160-cuMK?utm_source=share&utm_medium=member_desktop)
 * [AWS - AWS EventBridge Scheduler](https://www.linkedin.com/posts/ramstack_aws-awscloud-awsnews-activity-7094266444372185088-LgiE?utm_source=share&utm_medium=member_desktop)
 * [AWS - Release of 7th Generation M7i EC2](https://www.linkedin.com/posts/ramstack_aws-amazon-ec2-m7i-flex-instances-announcement-activity-7092670598610366464-R7Fy?utm_source=share&utm_medium=member_desktop)
 * [AWS - Python 3.11 supported on AWS Lambda and container image.](https://www.linkedin.com/posts/ramstack_aws-awscloud-awslambda-activity-7092412112857149442-KWQd?utm_source=share&utm_medium=member_desktop)
