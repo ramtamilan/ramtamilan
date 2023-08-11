@@ -37,9 +37,15 @@ I am a Solution Architect and has experience in designing environments hosted in
       * VDI Platforms – Azure WVD, AWS Workspace, VMware & Citrix
       * Windows Operating System Architecture
       * Scripting - Powershell, Python
-      * DevOps – GitHub, Bitbucket, Jenkins
-      
-  
+      * DevOps/CI & CD – GitHub, Bitbucket, Jenkins, Terraform
+        
+  - ✨ Cloud Native Skills    
+      * Serverless Hosted Platform - AWS Lambda, Azure Function
+      * Streaming & Messaging - Azure Event Hubs, Amazon Kinesis
+      * Automation & Configuration - Vmware
+      * Cloud Native Storage - Azure Disk Storage,
+      * CI/CD - Jenkins
+      * Database - Microsoft SQL Server
 - 🌱 Continuous learning and adding skills to my Armory.
   
 - ❓ Ask me about AWS,Azure, Vmware, Citrix, Windows, Active Directory.  
