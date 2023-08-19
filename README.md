@@ -106,7 +106,7 @@ I am a Solution Architect and has experience in designing environments hosted in
 * [Secure Access to Azure App Service & Costing - SOlution Brainstorming](https://www.linkedin.com/posts/ramstack_secure-access-to-azure-app-service-costing-activity-7039884062760591360-D1yL?utm_source=share&utm_medium=member_desktop)
 * [New Microsoft released new product "Microsoft Security Copilot" (preview)](https://www.linkedin.com/posts/ramstack_mssecure-infosec-activity-7047041123441147904-9WR_?utm_source=share&utm_medium=member_desktop)
 * [Sharing on Microsoft Learn community](https://www.linkedin.com/posts/ramstack_microsoft-learn-community-activity-7051384186955272193-FK8l?utm_source=share&utm_medium=member_desktop)
-* [Event announcement for my presentation @ Global Azure Day 2023 for the Wellington, NZ ](https://www.linkedin.com/posts/ramstack_azure-globalazure-community-activity-7062243705277095937-PBPR?utm_source=share&utm_medium=member_desktop)
+* [Event announcement for my presentation @ Global Azure Day 2023 for the Wellington, NZ ](https://www.linkedin.com/posts/ramtamilan_azure-globalazure-community-activity-7062243705277095937-RO-r?utm_source=share&utm_medium=member_desktop)
 * [Renewal of my AZ-104 certification](https://www.linkedin.com/posts/ramstack_microsoft-certified-azure-administrator-activity-7067999704965386240-cy-3?utm_source=share&utm_medium=member_desktop)
 
 ## My Blogs
