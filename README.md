@@ -42,7 +42,7 @@ I am a Solution Architect and has experience in designing environments hosted in
   - ✨ Cloud Native Skills    
       * Serverless Hosted Platform - AWS Lambda, Azure Function
       * Streaming & Messaging - Azure Event Hubs, Amazon Kinesis
-      * Automation & Configuration - Vmware
+      * Automation & Configuration - Vmware vsphere,Terraform
       * Cloud Native Storage - Azure Disk Storage,
       * CI/CD - Jenkins
       * Database - Microsoft SQL Server
