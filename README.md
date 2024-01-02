@@ -14,7 +14,12 @@
 </a>
 <a href="https://hashnode.com/@ramstack" target="_blank">
 <img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
-</a>  
+</a>
+<a href="https://dev.to/ramtamilan" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white
+alt=dev.to style="margin-bottom: 5px;" />
+</a>
+
   
 ### Glad to see you here!  
 I am a Solution Architect and has experience in designing environments hosted in Data Center and Cloud environment.Passion & Love for computers has inspired my journey for 16 + years.I started my career in computer assembling & technical support. I have been part of journey where the IT has transformed from physical hardware to Cloud.
