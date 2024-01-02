@@ -145,17 +145,10 @@ I am a Solution Architect and has experience in designing environments hosted in
 * [Lambda-crossaccountrole-assume-policy.json](https://gist.github.com/ramtamilan/aa1124ee989b3a7f60ceb6c63cbcd4cf)
 
 ## Volunterring 
-## ROLE: 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 Leader @ **CloudnLoud**
+## ROLE: **Community Leader/ Committee Member/ Social Media Lead** @ **AWS Aotearoa (NZ) User Group**
 
-I am part of 𝐂𝐥𝐨𝐮𝐝𝐧𝐋𝐨𝐮𝐝 𝐓𝐞𝐜𝐡 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 Core team.The CloudnLoud Tech Community is a non-profit open source tech community, volunteer-run events presenting by members of the CloudnLoud Community.
+In my role as the Community Leader and Social Media Lead for the **AWS Aotearoa (NZ) User Group**  , I work with a dedicated team to convene, collaborate, and organize meetings and community initiatives. Together, we aim to support individuals on their AWS journey, creating a vibrant space for learning and collaboration within the AWS community in New Zealand.
 
-The goal of our community is to bring together companies, leaders and professionals from around the world to share ideas, socialize and work together on advancing the present and future success of the project. We are part of this for good cause to save millions of Cancer children.
-
-At CloudnLoud Tech community, we are organizing free tech conferences, technical trainings and technical discussions on various IT technologies & open source tools. I have been mentoring, sharing knowledge through meetings, presentations and blogs.
-
-## ROLE: **Commitee Member** @ **AWS Aotearoa (NZ) User Group**
-
-I am **Commitee Member for AWS Aotearoa (NZ) User Group** and part of team where meet, collaborate and plan for meetings & community works to help others in their AWS Journey.
 The Amazon Web Services - Wellington Users Group is about all things Amazon Web Services for past, present and future users of all persuasions; tech and business, newbie to guru. 
 
 Whether you’re an AWS beginner or a seasoned pro, we’re here to help you on your AWS journey. We share our learnings and experiences and keep everyone up to speed on the latest news and developments.
@@ -164,6 +157,13 @@ Our shared purpose:
 * Inclusive of everyone
 * Career progression and job matchmaking
 
+## ROLE: 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 Leader @ **CloudnLoud**
+
+I am part of 𝐂𝐥𝐨𝐮𝐝𝐧𝐋𝐨𝐮𝐝 𝐓𝐞𝐜𝐡 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 Core team.The CloudnLoud Tech Community is a non-profit open source tech community, volunteer-run events presenting by members of the CloudnLoud Community.
+
+The goal of our community is to bring together companies, leaders and professionals from around the world to share ideas, socialize and work together on advancing the present and future success of the project. We are part of this for good cause to save millions of Cancer children.
+
+At CloudnLoud Tech community, we are organizing free tech conferences, technical trainings and technical discussions on various IT technologies & open source tools. I have been mentoring, sharing knowledge through meetings, presentations and blogs.
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
