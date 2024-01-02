@@ -93,9 +93,9 @@ I am a Solution Architect and has experience in designing environments hosted in
 
 ## AWS Meetups 
 * [𝑨𝑾𝑺 𝒓𝒆:𝑰𝒏𝒗𝒆𝒏𝒕 𝒓𝒆:𝑪𝒂𝒑,2023](https://www.linkedin.com/posts/ramstack_aws-awscommunity-awscommunitybuilders-activity-7142401910027792384-mX7y?utm_source=share&utm_medium=member_desktop)
-*[AWS user group Wellington meetup - Nov,2023](https://www.linkedin.com/posts/ramstack_aws-awscommunitybuilders-awscommunity-activity-7132154144924061697-UVVm?utm_source=share&utm_medium=member_desktop)
-*[AWS user group Wellington meetup - Oct,2023](https://www.linkedin.com/posts/ramstack_aws-awscommunity-awscommunitybuilders-activity-7123510798521430017-lSf4?utm_source=share&utm_medium=member_desktop)
-*[**AWS Community day Aotearoa,2023**](https://www.linkedin.com/posts/ramstack_awscdnz23-awscommunityday-networking-activity-7105810587527348224-8nQC?utm_source=share&utm_medium=member_desktop)
+* [AWS user group Wellington meetup - Nov,2023](https://www.linkedin.com/posts/ramstack_aws-awscommunitybuilders-awscommunity-activity-7132154144924061697-UVVm?utm_source=share&utm_medium=member_desktop)
+* [AWS user group Wellington meetup - Oct,2023](https://www.linkedin.com/posts/ramstack_aws-awscommunity-awscommunitybuilders-activity-7123510798521430017-lSf4?utm_source=share&utm_medium=member_desktop)
+* [**AWS Community day Aotearoa,2023**](https://www.linkedin.com/posts/ramstack_awscdnz23-awscommunityday-networking-activity-7105810587527348224-8nQC?utm_source=share&utm_medium=member_desktop)
 * [AWS user group Wellington meetup - July,2023](https://www.linkedin.com/posts/ramstack_july-2023-61-cloud-security-safeguarding-activity-7083953440044826624-cLIt?utm_source=share&utm_medium=member_desktop)
 * [AWS user group Wellington meetup - June,2023](https://www.linkedin.com/posts/ramstack_aws-community-awsusergroup-activity-7079594524334829568-6Geq?utm_source=share&utm_medium=member_desktop)
 * [AWS user group Wellington meetup - May,2023](https://www.linkedin.com/posts/ramstack_aws-awscloud-awsusergroups-activity-7067025924461842432-cQxr?utm_source=share&utm_medium=member_desktop)
